@@ -1,4 +1,4 @@
-package com.gufran.flightcheckin;
+package com.manish.flightcheckin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
