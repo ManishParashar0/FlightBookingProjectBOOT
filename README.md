@@ -16,4 +16,3 @@ Key features of the Flight Booking Project include:
 6. **Java and Spring Boot:** The project is built using Java programming language and utilizes the Spring Boot framework. Spring Boot simplifies the development process by providing powerful features to create production-ready applications quickly.
 
 Please note that the information provided here is based on the repository's name and the standard functionalities expected in a flight booking project. For more detailed information about the project, including its structure, codebase, and additional features, you may need to access the actual repository and its documentation on GitHub.
-
