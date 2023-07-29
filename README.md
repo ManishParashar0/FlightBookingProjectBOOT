@@ -1,4 +1,5 @@
 # FlightBookingProjectBOOT
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The Flight Booking Project is a web application hosted on GitHub,  This project aims to provide a comprehensive and user-friendly platform for users to book flights online.
 
 Key features of the Flight Booking Project include:
